@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+	background:url(/img/fundo.jpg);
+}
+
+h1 {
+    background-color:rgba(0,0,0,.50) ;
+    color: rgb(250, 205, 3);
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: rgb(226, 238, 174);
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: rgb(226,238,174);
+}
+.jogador, .vencedor{
+
+    background-color:rgba(0,0,0,.50);
+    color:rgb(250, 205, 3);
+    font-size: 30px;
+    margin-top: 10px;
+
+
+}
+
+button{
+    margin-top:10px;
+    width: 100px;
+    height: 30px;
+    background: rgb(238, 45, 45);
+    cursor: pointer;
+    color: rgb(252, 252, 252);
+}
+
+
+
